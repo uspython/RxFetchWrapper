@@ -1,0 +1,13 @@
+[ignore]
+.*/node_modules/react-navigation/src/__tests__/.*
+.*/node_modules/react-navigation/src/views/__tests__/.*
+.*/node_modules/react-navigation/src/routers/__tests__/.*
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+
+[strict]
